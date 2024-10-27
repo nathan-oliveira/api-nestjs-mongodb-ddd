@@ -1,0 +1,1 @@
+- exemplo: gravar logs de autenticação
